@@ -1,2 +1,1 @@
-# C-155
-Collect Coins
+# PRO-C155-Project
